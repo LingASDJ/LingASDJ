@@ -18,10 +18,10 @@ JDSALing,即便前途迷茫，仍然努力前行
 
 Hello,Very happy to see you.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=deng-rui.deng-rui)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LingASDJ.LingASDJ)
 
-[Telegram](https://t.me/derdct)  
-Mail: dr@der.kim
+Discord:JDSA Ling#3793
+Mail: CutelinXXX@126.com
 
 
 ![Dr's github stats](https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
