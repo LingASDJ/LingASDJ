@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**LingASDJ/LingASDJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**deng-rui/deng-rui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Dr ! 几岁了呢~ 在什么学校呢~
+
+请多关照!
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=deng-rui.deng-rui)
+
+[Telegram](https://t.me/derdct)  
+Mail: dr@der.kim
+
+
+![Dr's github stats](https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
