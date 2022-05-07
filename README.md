@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Dr ! 几岁了呢~ 在什么学校呢~
+JDSALing,即便前途迷茫，仍然努力前行
 
-请多关照!
+Hello,Very happy to see you.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=deng-rui.deng-rui)
 
