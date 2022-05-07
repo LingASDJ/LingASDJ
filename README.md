@@ -24,4 +24,4 @@ Hello,Very happy to see you.
 > Mail: CutelinXXX@126.com  
 
 
-![LingASDJ github stats](https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffff00&bg_color=00ffff)
+![LingASDJ github stats](https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffff00&bg_color=111111)
