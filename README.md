@@ -24,7 +24,7 @@ Hello,Very happy to see you.
 > Discord:JDSA Ling#3793  
 > Mail: CutelinXXX@126.com  
 
-|我的Github状态![LingASDJ github stats](https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000) |Github-Langs![LingASDJ Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LingASDJ&hide=scss,ruby&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)
+|我的Github状态![LingASDJ github stats](https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LingASDJ&hide=scss,ruby&layout=compact)
 |-|-
 
 活跃的代码仓库：
