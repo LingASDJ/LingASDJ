@@ -18,6 +18,7 @@ JDSALing,即便前途迷茫，仍然努力前行
 
 Hello,Very happy to see you.
 
+总访客次数：  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=LingASDJ.LingASDJ)
 
 > Discord:JDSA Ling#3793  
