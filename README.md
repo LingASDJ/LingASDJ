@@ -27,4 +27,6 @@ Hello,Very happy to see you.
 |我的Github状态![LingASDJ github stats](https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000) |Github-Langs![LingASDJ Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LingASDJ&hide=scss,ruby&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)
 |-|-
 
-活跃的代码仓库![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LingASDJ&repo=harder-sprouted-pd)<br>![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LingASDJ&repo=DeisticPixelDungeon)<br>![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnsdoShip&repo=magic-ling-pixel-dungeon)
+活跃的代码仓库：
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LingASDJ&repo=harder-sprouted-pd)|![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LingASDJ&repo=DeisticPixelDungeon)|![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnsdoShip&repo=magic-ling-pixel-dungeon)
+|-|-|-
