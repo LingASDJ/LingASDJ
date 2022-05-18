@@ -27,4 +27,4 @@ Hello,Very happy to see you.
 
 ![LingASDJ github stats](https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LingASDJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
