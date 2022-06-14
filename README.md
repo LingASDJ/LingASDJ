@@ -28,5 +28,5 @@ Hello,Very happy to see you.
 |-|-
 
 活跃的代码仓库：
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LingASDJ&repo=harder-sprouted-pd&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)|![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LingASDJ&repo=DeisticPixelDungeon&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)|![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnsdoShip&repo=magic-ling-pixel-dungeon&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LingASDJ&repo=harder-sprouted-pd&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)|![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LingASDJ&repo=DeisticPixelDungeon&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)|![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnsdoShip&repo=magic-ling-pixel-dungeon-part2&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)
 |-|-|-
