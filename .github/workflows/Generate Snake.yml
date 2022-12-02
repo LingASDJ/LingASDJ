@@ -27,4 +27,5 @@ jobs:
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: main
+          token: ${{ secrets.RELEASE_TOKEN }}
           message: 'Generate Contribution Snake'
