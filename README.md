@@ -1,16 +1,20 @@
+<div align="center"> 
+
 JDSALing,鸟语花香丛之间，暮然回首小溪边。
 
 你好，很高兴认识你。
 
 Hello,Very happy to see you.
-总访客次数：  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LingASDJ.LingASDJ)
+
+总访客次数:<br>
+Visitor Count:<br>
+<img src="https://profile-counter.glitch.me/LingASDJ/count.svg" />
 
 我的联系方式(Call ME)： 
 > Discord:JDSA Ling#3793  
 > Mail: CutelinXXX@126.com  
 > QQ:2735951230  
-<div align="center">
+
 
 |<img src="https://github-readme-streak-stats.herokuapp.com?user=dongyuanwai&theme=onedark&date_format=M%20j%5B%2C%20Y%5D"/>
 |-
