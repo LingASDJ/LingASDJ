@@ -12,8 +12,11 @@ Hello,Very happy to see you.
 > QQ:2735951230  
 <div align="center">
 
-|<img src="https://github-readme-streak-stats.herokuapp.com?user=dongyuanwai&theme=onedark&date_format=M%20j%5B%2C%20Y%5D"/>|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LingASDJ&hide=java,css,html,shell&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)|![LingASDJ github stats](https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)
-|-|-|-
+|<img src="https://github-readme-streak-stats.herokuapp.com?user=dongyuanwai&theme=onedark&date_format=M%20j%5B%2C%20Y%5D"/>
+|-
+  
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LingASDJ&hide=java,css,html,shell&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)|![LingASDJ github stats](https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)
+|-|-
 
 |![LingASDJ 's github activity graph](https://activity-graph.herokuapp.com/graph?username=LingASDJ&theme=vue)
 |-
