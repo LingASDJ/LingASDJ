@@ -11,7 +11,7 @@
     </td>
 <td><hr>
 <img src="Ling.png"/>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=鸟语花香丛之间，暮然回首小溪边;溪旁矗立竹庭院,书香逸然人悠怀;迈入院中循寻踪，恍悟万物于书中;书中自有黄金屋，期与旅者寻归途&width=650&center=true&size=27&weight=700&pause=2000">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=鸟语花香丛之间，暮然回首小溪边;溪旁矗立竹庭院,书香逸然人悠怀;迈入院中循寻踪，恍悟万物于书中;书中自有黄金屋，期与旅者寻归途&width=650&center=true&size=37&weight=700&height=80&pause=2000">
 
 你好，很高兴认识你。
 
