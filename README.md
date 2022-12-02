@@ -31,10 +31,5 @@ Discord:JDSA Ling#3793  <br>
 Mail: CutelinXXX@126.com  <br>
 QQ:2735951230
 <hr></td>
-  </table>  
-
-
-|![LingASDJ 's github activity graph](https://activity-graph.herokuapp.com/graph?username=LingASDJ&theme=vue&width=400)
-|-
  
  </div>  
