@@ -4,9 +4,13 @@
 |-|-|-
   
   <table border="3" >  
-    <td><img src="https://metrics.lecoq.io/LingASDJ?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai"/></td>
+    <td>    
+      <img src="https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000&width=1000"/>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingASDJ&hide=java,css,html,shell&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000&width=1000"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=dongyuanwai&theme=vue&date_format=M%20j%5B%2C%20Y%5D"/>
+    </td>
 <td><hr>
-
+<img src="Ling.png"/>
 <img src="https://readme-typing-svg.herokuapp.com/?lines=鸟语花香丛之间，暮然回首小溪边;溪旁矗立竹庭院,书香逸然人悠怀;迈入院中循寻踪，恍悟万物于书中;书中自有黄金屋，期与旅者寻归途&width=650&center=true&size=27&weight=700&pause=2000">
 
 你好，很高兴认识你。
@@ -30,13 +34,7 @@ QQ:2735951230
   </table>  
 
 
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LingASDJ&hide=java,css,html,shell&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)|<img src="https://github-readme-streak-stats.herokuapp.com?user=dongyuanwai&theme=vue&date_format=M%20j%5B%2C%20Y%5D"/>|<img src="Ling.png"/>
-|-|-|-
-  
-  
-|![LingASDJ github stats](https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)|![LingASDJ 's github activity graph](https://activity-graph.herokuapp.com/graph?username=LingASDJ&theme=vue)
-|-|-
-
-
-  
+|![LingASDJ 's github activity graph](https://activity-graph.herokuapp.com/graph?username=LingASDJ&theme=vue&width=400)
+|-
+ 
  </div>  
