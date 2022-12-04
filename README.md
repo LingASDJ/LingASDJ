@@ -4,13 +4,15 @@
 |-|-|-
   
   <table border="3" >  
-    <td>    
-      <img src="https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000&width=1000"/>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingASDJ&hide=java,css,html,shell&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000&width=1000"/>
+    <td>
+      <table border="2" >  
+      <img src="Ling.png"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingASDJ&hide=java,css,html,shell&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000&width=1000"/>
+      </table>
+      <img src="https://raw.githubusercontent.com/LingASDJ/LingASDJ/1c0fe8af4ae90474f6411a789921a539e2fadf32/assets/github-contribution-grid-snake.svg"/>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=dongyuanwai&theme=vue&date_format=M%20j%5B%2C%20Y%5D"/>
     </td>
 <td><hr>
-<img src="Ling.png"/>
 <img src="https://readme-typing-svg.herokuapp.com/?lines=鸟语花香丛之间，暮然回首小溪边;溪旁矗立竹庭院,书香逸然人悠怀;迈入院中循寻踪，恍悟万物于书中;书中自有黄金屋，期与旅者寻归途&width=650&center=true&size=37&weight=700&height=80&pause=2000">
 
 你好，很高兴认识你。
@@ -30,6 +32,7 @@ Visitor Count:<br>
 Discord:JDSA Ling#3793  <br>
 Mail: CutelinXXX@126.com  <br>
 QQ:2735951230
+<img src="https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000"/>
 <hr></td>
  
  </div>  
