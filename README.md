@@ -9,7 +9,9 @@
       <img src="Ling.png"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingASDJ&hide=java,css,html,shell&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000&width=1000"/>
       </table>
+      <span>My Github Stats Snake</span>
       <img src="https://raw.githubusercontent.com/LingASDJ/LingASDJ/1c0fe8af4ae90474f6411a789921a539e2fadf32/assets/github-contribution-grid-snake.svg"/>
+       <span>My Github Daily Stats</span>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=dongyuanwai&theme=vue&date_format=M%20j%5B%2C%20Y%5D"/>
     </td>
 <td><hr>
