@@ -3,18 +3,7 @@
 困难发芽地牢中文版：![传送门](https://github.com/LingASDJ/harder-sprouted-pd)![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LingASDJ&repo=harder-sprouted-pd&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)|天狱之境-TR：[传送门](https://github.com/LingASDJ/SkyHell)![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LingASDJ&repo=SkyHell&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)|魔绫像素地牢：[传送门](https://github.com/AnsdoShip/Magic-Ling-Pixel-Dungeon)![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnsdoShip&repo=magic-ling-pixel-dungeon-part2&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)
 |-|-|-
   
-  <table border="3" >  
-    <td>
-      <table border="2" >  
-      <img src="Ling.png"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingASDJ&hide=java,css,html,shell&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000&width=1000"/>
-      </table>
-      <span>My Github Stats Snake</span>
-      <img src="https://raw.githubusercontent.com/LingASDJ/LingASDJ/1c0fe8af4ae90474f6411a789921a539e2fadf32/assets/github-contribution-grid-snake.svg"/>
-       <span>My Github Daily Stats</span>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=dongyuanwai&theme=vue&date_format=M%20j%5B%2C%20Y%5D"/>
-    </td>
-<td><hr>
+<hr>
   
   ![Name](https://capsule-render.vercel.app/api?type=Waving&color=00ffff&height=200&animation=fadeIn&section=header&text=JDSALing,Nice&nbsp;to&nbsp;meet&nbsp;you!&fontSize=60)
   
@@ -36,7 +25,8 @@ Visitor Count:<br>
 我的联系方式(Call ME)： <br>
 Discord:JDSA Ling#3793  <br>
 Mail: CutelinXXX@126.com  <br>
-QQ:2735951230
+QQ:2735951230<br>
+  
 <img src="https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000"/>
 
 ### Langs(擅长语言)
