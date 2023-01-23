@@ -15,8 +15,13 @@
 
 <!--能力展示-->    
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=70&animation=fadeIn&section=header&text=我的联系方式：&fontSize=40"/><br><img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=70&animation=fadeIn&section=header&text=QQ:2735951230&fontSize=40"/><br><img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=70&animation=fadeIn&section=header&text=Discord:JDSALing-3793&fontSize=40"/><br><img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=70&animation=fadeIn&section=header&text=Email:clingsd@gmail.com,CutelinXXX@126.com&fontSize=30"/>|<h3>所有使用过的语言:</h3><img src="https://skillicons.dev/icons?i=ruby,rust,html,cs,css,vue,java,react,md,nodejs,lua,js,jquery" /><br><h3>所有使用过的应用:</h3><img src="https://skillicons.dev/icons?i=visualstudio,firebase,ps,androidstudio,git,discord,idea,unity,pr,ps,vscode,redis" />
-|-|-  
+|-|-
+  
+<!--个人资料-->    
 
+|<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LingASDJ&hide_title=true&hide_border=true&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000" />|<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LingASDJ&hide_title=true&hide_border=true&hide=java&layout=compact&langs_count=6&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000" />  
+|-|-
+  
 <!--打油诗（）-->    
 <hr></td>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=70&animation=fadeIn&section=header&text=绫中之书-撰写-JDSALing:&fontSize=40"/>
