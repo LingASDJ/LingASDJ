@@ -29,7 +29,7 @@ QQ:2735951230<br>
   
 <img src="https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000"/>
 
-### Langs(擅长语言)
+### Langs(使用的语言)
 ![Langs](https://capsule-render.vercel.app/api?type=Waving&color=00ffff&height=200&animation=fadeIn&section=header&text=Android,CSharp,Node,Web&fontSize=60)
    
   
