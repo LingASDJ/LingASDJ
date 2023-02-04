@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=00ffff&height=200&animation=fadeIn&section=header&text=Best%20Langs-最擅长的领域:&fontAlignY=30&desc=Android,Node.js,Web,Server,Mod&fontSize=40" />
 
 <!--访客记录-->  
-|<img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=100&animation=fadeIn&section=header&text=访客次数统计:&fontSize=60"/><img src="https://profile-counter.glitch.me/LingASDJ/count.svg" />|<img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=50&animation=fadeIn&section=header&text=本仓库已经调整为模板库供大家使用。&fontSize=20&fontAlignY=50"/><img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=50&animation=fadeIn&section=header&text=如果你要使用的话，还请你点个Star给这个美化模板!%20&fontSize=20"/><img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=50&animation=fadeIn&section=header&text=Ling在这里祝大家都要在编码的道路上技术越来越炉火纯青哦，新的一年，一起加油!!!%20&fontSize=20"/>
-|-|-
+|<img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=100&animation=fadeIn&section=header&text=访客次数统计:&fontSize=60"/><img src="https://profile-counter.glitch.me/LingASDJ/count.svg" />|
+|-
 
 <!--代表仓库-->    
 |我的开源|代表仓库
