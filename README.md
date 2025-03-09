@@ -20,7 +20,7 @@
   
 <!--个人资料-->    
 
-|<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LingASDJ&hide_title=true&hide_border=true&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000" />|<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LingASDJ&hide_title=true&hide_border=true&hide=java,css,ini&layout=compact&langs_count=6&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000" />  
+|<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LingASDJ&hide_title=true&hide_border=true&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000" />|<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LingASDJ&hide_title=true&hide_border=true&layout=compact&langs_count=6&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000" />  
 |-|-
   
 <!--打油诗（）-->    
