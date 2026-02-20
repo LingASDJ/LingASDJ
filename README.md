@@ -1,26 +1,11 @@
 <div align="center"> 
 <!--滚动区域-->  
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=00ffff&height=200&animation=fadeIn&section=header&text=Best%20Langs-最擅长的领域:&fontAlignY=30&desc=Android,Node.js,Web,Server,Mod&fontSize=40" />
-
-<!--访客记录-->  
-|<img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=100&animation=fadeIn&section=header&text=访客次数统计:&fontSize=60"/><img src="https://profile-counter.glitch.me/LingASDJ/count.svg" />|
-|-
-
-<!--代表仓库-->    
-|我的开源|代表仓库
-|-|-
-铁锈Mod-星河征途:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LingASDJ&repo=StarRiver-EndlessJourney-RW-MODS&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/LingASDJ/StarRiver-EndlessJourney-RW-MODS)|TML-Mod-天狱之境:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LingASDJ&repo=SkyHell&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/LingASDJ/SkyHell)
-地牢Mod-魔绫地牢:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LingASDJ&repo=Magic_Ling_Pixel_Dungeon&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/LingASDJ/magic-ling-pixel-dungeon)|铁锈API站点:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LingASDJ&repo=RW-API-Code&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/LingASDJ/RW-API-Code)
   
 <hr>
 
 <!--能力展示-->    
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=70&animation=fadeIn&section=header&text=我的联系方式：&fontSize=40"/><br><img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=70&animation=fadeIn&section=header&text=QQ:2735951230&fontSize=40"/><br><img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=70&animation=fadeIn&section=header&text=Discord:JDSALing-3793&fontSize=40"/><br><img src="https://capsule-render.vercel.app/api?type=Waving&color=fff&height=70&animation=fadeIn&section=header&text=Email:clingsd@gmail.com,CutelinXXX@126.com&fontSize=30"/>|<h3>所有使用过的语言:</h3><img src="https://skillicons.dev/icons?i=ruby,rust,html,cs,css,vue,java,react,md,nodejs,lua,js,jquery" /><br><h3>所有使用过的应用:</h3><img src="https://skillicons.dev/icons?i=visualstudio,firebase,ps,androidstudio,git,discord,idea,unity,pr,vscode,redis" />
-|-|-
-  
-<!--个人资料-->    
-
-|<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LingASDJ&hide_title=true&hide_border=true&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000" />|<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LingASDJ&hide_title=true&hide_border=true&hide=java,css,ini,html,scss&layout=compact&langs_count=6&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000" />  
 |-|-
   
 <!--打油诗（）-->    
